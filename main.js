@@ -6,7 +6,7 @@
 берет значение по ключу value и выводит сообщение преведствия из глобальной переменной greetingMessage.
 alrt(greetingMessage + input.value)*/ 
 
-var greetingMessage = "Hellow";
+var greetingMessage = "Hellow"; 
 var input = {
     value: document.querySelector('input[id="name"]')
 }
